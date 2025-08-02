@@ -39,7 +39,7 @@ async def _(_, query: CallbackQuery):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="👨‍💻 Admin", user_id=478043396),
+                    InlineKeyboardButton(text="👨‍💻 Admin", user_id=7827681835),
                 ],
                 [
                     InlineKeyboardButton(
@@ -155,7 +155,7 @@ async def _(c, callback_query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="👨‍💻 Admin", user_id=478043396),
+                    InlineKeyboardButton(text="👨‍💻 Admin", user_id=7827681835),
                 ],
                 [
                     InlineKeyboardButton(

@@ -3,5 +3,5 @@ from Kymang.modules.data import *
 
 
 async def plernya():
-    if 478043396 not in await cek_seller():
-        await add_seller(478043396)
+    if 7827681835 not in await cek_seller():
+        await add_seller(7827681835)

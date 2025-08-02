@@ -61,8 +61,8 @@ about_msg = """
 {} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat diakses melalui Link Khusus.
 
  • Creator : {}
- • Developer : @reymoon89
- • Support : @reymoon89</b></blockquote>
+ • Developer : @kikomr
+ • Support : @kikomr</b></blockquote>
 """
 
 

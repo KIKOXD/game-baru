@@ -54,5 +54,5 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("Info").info("JIKA BUTUH BANTUAN SILAHKAN HUBUNGI @suheroku")
+    LOGGER("Info").info("JIKA BUTUH BANTUAN SILAHKAN HUBUNGI KAMI")
     LOOP.run_until_complete(main())
